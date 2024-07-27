@@ -1,51 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Programador Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizando a IA Copilot da Microsoft, gerei uma imagem inspiradora de um homem super estudioso se tornando o melhor programador do mundo. A IA foi alimentada com descrições detalhadas e conceitos visuais que capturam a dedicação intensa aos estudos e o domínio das habilidades de programação. A escolha do tema reflete a jornada de superação e excelência, simbolizando como a dedicação e o uso de ferramentas avançadas, como a Copilot, podem transformar sonhos em realidade. A imagem serve como um tributo à busca incansável pelo conhecimento e à capacidade humana de alcançar feitos extraordinários com o auxílio da tecnologia.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT(Prompts) Microsoft Copilot(Image)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para criar a imagem de um homem super estudioso se tornando o melhor programador do mundo utilizando a IA Copilot da Microsoft, segui os seguintes passos:
+Definição do Conceito:
+Escolhi o tema de um estudante dedicado que, através de estudo intenso e uso da IA Copilot, se transforma no melhor programador do mundo.
+Desenvolvimento dos Prompts:
+Elaborei prompts detalhados para orientar a IA Copilot na geração da imagem, focando em momentos-chave da jornada do personagem.
+Geração e Refinamento:
+Utilizei a IA Copilot para gerar descrições visuais baseadas nos prompts e fiz ajustes conforme necessário para garantir a precisão e coesão da imagem.
+Finalização:
+Ajustei e finalizei a imagem para que ela refletisse a trajetória de dedicação e sucesso, destacando o papel da tecnologia na transformação do personagem.
+Esse processo garantiu uma imagem inspiradora que captura a evolução de um estudante dedicado em um programador de elite com a ajuda da IA Copilot.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O link com o resultado final da imagem: https://copilot.microsoft.com/images/create/a-young-studious-man-in-a-modern-library2c-surround/1-66a5338f87fa46b68f9ff7cec0a37f58?id=84EzJ%2fWzpRgRCp3F6fChFQ%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG3.6ESptAgIcTyZIj76gadS&FORM=SYDBIC
